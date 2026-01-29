@@ -61,10 +61,9 @@ We compare modern architectures (LSTM + Attention, Transformer Encoder) against 
 
 ---
 
-## 💡 Insights & Next Steps
+## 💡 Insights 
 
 - Larger LSTM units + moderate learning rate + bigger batch size + more epochs improved accuracy.
 - Future improvements:
   - Explore wider hyperparameter ranges
-  - Try advanced tuning strategies like Bayesian optimization
-
+  
